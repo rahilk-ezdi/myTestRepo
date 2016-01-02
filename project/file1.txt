@@ -3,5 +3,5 @@ this line 2 from git hub
 this line 3 from local
 this line 4 from local
 this line 5 from local
-
+this line 6 from git hub
 this line 7 from local
